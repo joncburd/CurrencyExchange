@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CurrencyExchange</string>
+    <string name="money">Enter Currency Amount</string>
+    <string name="converted_amount">Converted Amount:</string>
+    <string name="convert">Convert</string>
+    <string name="original_amount">Original Amount:</string>
+    <string-array name="currencies">
+        <item>($) US Dollars</item>
+        <item>(€) Euros</item>
+        <item>(kr.) Danish Krones</item>
+        <item>(Kč) Czech koruna</item>
+        <item>(Ft) Hungarian forint</item>
+        <item>(zł) Polish zloty</item>
+        <item>(S/.) Peruvian Nuevo</item>
+        <item>(₹) India Rupee</item>
+    </string-array>
+</resources>
